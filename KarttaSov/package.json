@@ -1,0 +1,16 @@
+{
+  "name": "kartta-sov",
+  "version": "0.0.0",
+  "description": "KarttaSov",
+  "main": "server.js",
+  "author": {
+    "name": "marku"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4",
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {}
+}
